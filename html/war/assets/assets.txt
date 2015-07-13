@@ -1,0 +1,17 @@
+d:assets:0:application/unknown
+i:DefaultAlbumCover.png:16023967:image/png
+i:FastForward.png:660034:image/png
+i:Pause.png:660034:image/png
+i:Play.png:660034:image/png
+i:ProgressBackground.png:115561:image/png
+i:ProrgressForeground.png:25524:image/png
+i:Rewind.png:660020:image/png
+a:TETRIS.mp3:646709:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5163:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8948:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png

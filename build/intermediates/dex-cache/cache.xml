@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Macbook_2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.3/f5848caaa3edeedce92361c61c716a1cb33587f/gdx-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f5848caaa3edeedce92361c61c716a1cb33587f">
+        <dex dex="/Users/Macbook_2/Documents/OCTOS/Git/tritone/android/build/intermediates/pre-dexed/debug/gdx-1.6.3-69490d487ebaa09f841ecc8d79cc37b64512135f.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook_2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.3/82ff2ee784275ae5f49ac942a593c5248b80881b/gdx-box2d-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82ff2ee784275ae5f49ac942a593c5248b80881b">
+        <dex dex="/Users/Macbook_2/Documents/OCTOS/Git/tritone/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.6.3-2274c223704a91f1c8d9e9264f431a7a8528282b.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook_2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.3/78054a81e63d50b73e0cb00e4ba01bb54f9be94f/gdx-backend-android-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78054a81e63d50b73e0cb00e4ba01bb54f9be94f">
+        <dex dex="/Users/Macbook_2/Documents/OCTOS/Git/tritone/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.6.3-a380894f993a4d45839ee0d403bd96eb50f088fc.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook_2/Documents/OCTOS/Git/tritone/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="43fb6d159f79808269e27d81cc45797954088c2c">
+        <dex dex="/Users/Macbook_2/Documents/OCTOS/Git/tritone/android/build/intermediates/pre-dexed/debug/core-1.0-5fb51463916f549726692274942a8ffab1d9f8ed.jar" />
+    </item>
+
+</items>
